@@ -1,0 +1,6 @@
+My name is Nitesh Thapliyal
+I am making this vidio to demonstrate my project which is
+named as text to speach.
+This project will turn my notepad txt file to 
+audio file and play the file thorugh media player.
+so lets get started...this is my code in atom editor...
